@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000649_0000_0FA9A07CEE5CD5E0"/>
-            <pb facs="tcp:000649_0001_0FA9A07DADEB2080"/>
+            <pb facs="unknown:000649_0000_0FA9A07CEE5CD5E0"/>
+            <pb facs="unknown:000649_0001_0FA9A07DADEB2080"/>
             <p>ACTS AND LAWS, Passed by the Great and General Court or Assembly of Their Majesties Province of the Massachusetts-Bay, in NEW-ENGLAND, Convened and held at Boston, the Thirty-first Day of <hi>May.</hi> 1693.</p>
             <p>
                <hi>Anno Regni Guilielmi, et Mariae, Regis et Reginae, Angliae, Scotiae, Franciae, et Hiberniae, Quinto.</hi>
@@ -126,7 +126,7 @@
       </front>
       <body>
          <div type="acts_and_laws">
-            <pb n="3" facs="tcp:000649_0002_0FA9A07E6F7673A0"/>
+            <pb n="3" facs="unknown:000649_0002_0FA9A07E6F7673A0"/>
             <head>ACTS AND LAWS, Passed by the Great and General Court or Assembly of Their Majesties Pro<g ref="char:EOLhyphen"/>vince of the Massachusetts-Bay, in NEW-ENGLAND &amp;c.</head>
             <div type="act">
                <head>AN ACT, For the Restraining the taking Excessive Usury.</head>
@@ -134,7 +134,7 @@
                <p>Be it for the Reasons aforesaid, Enacted by the Governour, Council, and Representatives, Convened in General Assembly, and it is Enacted by the Authority of the same,</p>
                <p>That no person or persons whatsoever, from and after the first day of August in the year of our Lord,<note place="margin">6 <hi>pound per. Cent. Interest per. annum for loan of Money.</hi>
                   </note> One Thousand Six Hun<g ref="char:EOLhyphen"/>dred Ninety Three; upon any Contract to be made after that time, shall take directly or indirectly, for Loan of any Moneys, Wares, Merchandize, or other Commodities whatsoever, above the value of
-<pb n="4" facs="tcp:000649_0003_0FA9A07F2E3FC860"/>
+<pb n="4" facs="unknown:000649_0003_0FA9A07F2E3FC860"/>
 Six Pounds for the forbearance of one Hundred Pounds for a Year; and so after that Rate for a greater or leſſer time, or for a longer or shorter time; and that all Bonds, Contracts, Mortgages and Aſſu<g ref="char:EOLhyphen"/>rances whatsoever, made after the time aforesaid, for the payment of any principal or Money Lent or Covenanted to be lent, upon or for Usury, whereupon or whereby there shall be Reserved, or ta<g ref="char:EOLhyphen"/>ken above the Rate of Six Pounds in the Hundred as aforesaid,<note place="margin">
                      <hi>Penalty for Contracting for more.</hi>
                   </note> shall be utterly void; and that all and every Person and Persons whatsoever, which shall after the time aforesaid, upon any Contract take, accept, and receive by way or means of any Corrupt Bargain, Loan, Exchange, or by Covin, or deceitful conveyance, or by any other way or means whatsoever, for the forbearing or giving day of payment for one whole Year, of, and for their Money or other thing or things, above the sum of Six Pounds for the forbearing of one Hundred Pounds for a Year; and so after that Rate for a greater or lesser Sum, or for a longer or shorter time; shall forfeit and loose for every such Offence the full value of the Goods, and Moneys, or other things so lent, Exchanged, Bargained, Sold, or agreed for; one Moity thereof to Their Majesties, towards the support of the Go<g ref="char:EOLhyphen"/>vernment of this Province, and the contingent charges thereof, the other Moity to the Informer, that shall ſue for the same; any Custom, Usage or Law to the contrary notwithstanding.</p>
@@ -143,7 +143,7 @@ Six Pounds for the forbearance of one Hundred Pounds for a Year; and so after th
                   </note> nothing in this Act shall extend to the letting of Cattle, or other Usages of like nature, in practice amongst Far<g ref="char:EOLhyphen"/>mers, or Maritime Contracts among Merchants, as Bottommary, or course of Exchange, as hath been heretofore accustomed.</p>
             </div>
             <div type="act">
-               <pb n="5" facs="tcp:000649_0004_0FA9A080200D1400"/>
+               <pb n="5" facs="unknown:000649_0004_0FA9A080200D1400"/>
                <head>AN ACT, For Regulating the Building of SHIPS.</head>
                <p>FOrasmuch as the Building of Ships is a business of great Im<g ref="char:EOLhyphen"/>portance for the Common Good, and therefore according to the Course and Practice of Their Majesties Kingdom of Eng<g ref="char:EOLhyphen"/>land, Suitable Provision is necessary to be made, that it be well Performed.</p>
                <p>Be it therefore Enacted by the Governour, Council and Re<g ref="char:EOLhyphen"/>presentatives Convened in General Assembly, and by the Autho<g ref="char:EOLhyphen"/>rity of the same,</p>
@@ -154,7 +154,7 @@ Six Pounds for the forbearance of one Hundred Pounds for a Year; and so after th
                <p>That if any Builder upon the advice and direction of such Sur<g ref="char:EOLhyphen"/>veyer or Surveyers shall neglect to reform and amend what is judged to be defective or amiss in any Materials or Work-man-ship shall forfeit and pay the Summ of five Shillings <hi>per diem</hi> to the use of the poor of that Town where such Vessel shall be in Building until the defects be amended;<note place="margin">
                      <hi>Builders penalty for neglect of Amendment</hi>
                   </note> being Convicted of such neglect before one or more Justices of the Peace, unless such Justice or Justices upon hearing of the Builder
-<pb n="6" facs="tcp:000649_0005_0FA9A081BAD14810"/>
+<pb n="6" facs="unknown:000649_0005_0FA9A081BAD14810"/>
 shall see cause to allow him some further reasonable time for doiing of the same. And if any Builder shall bring to, and faſten any Plank upon any Ship or Vessel of the Burthen aforesaid, before a Warrant of Survey be obtained as aforesaid,<note place="margin">
                      <hi>
                         <gap reason="illegible: indecipherable" extent="1 span">
@@ -171,7 +171,7 @@ shall see cause to allow him some further reasonable time for doiing of the same
                <p>WHEREAS Their Most Excellent Majesties by Their Letters Patents under the Great Seal of England, bearing Date the Seventeenth Day of February in the Year of out Lord <hi>One Thousand Six Hundred Ninety One.</hi> Have given unto <hi>Thomas Neale</hi> 
                   <abbr>Esq.</abbr> His Executors Administrators and Assigns full Power and Authority to Erect Settle and Establish within the Chief Ports of Their said Majesties Colonies and Plantations in <hi>America,</hi> an Office or Offices for the Receiving and Dispatching of Letters and Pacquets, and to Receive, send and Deliver the same under such Rates and Summs of Money as the Planters shall agree to give <hi>&amp;c.</hi> To hold and enjoy the same for the Term of <hi>Twenty One</hi> Years, with such Powers and Clauses as are necessary on that behalf; as by the said Letters Patents, Relation being thereunto had, may more fully and at large appear: And whereas <hi>Andrew Hamilton</hi> 
                   <abbr>Esq.</abbr> is Deputed and Constituted to Govern and Manage the said General Post-Office
-<pb n="7" facs="tcp:000649_0006_0FA9A0823173E980"/>
+<pb n="7" facs="unknown:000649_0006_0FA9A0823173E980"/>
                   <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> all Their Majesties Plantations and Colonies in the <gap reason="illegible: indecipherable" extent="1 span">
@@ -195,7 +195,7 @@ shall see cause to allow him some further reasonable time for doiing of the same
                <p>That it shall and may be Lawful to, and for the Post Master General aforesaid,<note place="margin">
                      <hi>the several Rates for Portage of Letters.</hi>
                   </note> and his Deputy and Deputyes, by him thereunto Sufficiently Authorized, to Demand, have, Receive and take for the Portage and Conveyance of all such Letters, which he shall so Con<g ref="char:EOLhyphen"/>vey Carry or send Post as aforesaid; according to the Several Rates
-<pb n="8" facs="tcp:000649_0007_0FA9A082EF933AD0"/>
+<pb n="8" facs="unknown:000649_0007_0FA9A082EF933AD0"/>
 and Summs of Current Money of this Province hereafter mentioned, nor to Exceed the same; <hi>that is to say,</hi> for the port of every single Letter from <hi>Europe,</hi> the <hi>West-Indies,</hi> or other poſts beyond the Seas, Two pence; and all Letters are to be accounted single, though they Contain Bills of Loading, Gazets, Invoyces, <hi>&amp;c.</hi> and for each Pacquet of Letters from the places aforesaid, Four-pence; and a Pacquet shall be accounted three Let<g ref="char:EOLhyphen"/>ters at the least, and for the Port of every single Letter from <hi>Rhode-Island</hi> to Boston, or from Boston to <hi>Rhode-Island,</hi> Six-pence, and so in proportion to the greatness and quantity of Letters, and for the Port of each single Letter from the Post-Road in <hi>Connecticut</hi> Colony, to Boston, Nine-pence, and so in proportion as aforesaid; and for the port of each single Letter from the City of <hi>New-York,</hi> Twelve-pence, and so in proportion as afore<g ref="char:EOLhyphen"/>said; and for the Port of each single Letter from the Provinces of East or West <hi>Jersey,</hi> or <hi>Pensilvania,</hi> Fifteen-pence, and so in proportion as aforesaid; and for the Port of each single Letter from <hi>Mary-land</hi> or <hi>Virgini<g ref="char:EOLhyphen"/>a,</hi> Two Shillings each single Letter, and so in proportion as aforesaid; and for the Port of each single Letter from <hi>Salem,</hi> Three-pence; From <hi>Ipswich, Newbury,</hi> or other places Eastward of <hi>Salem,</hi> within this Province, Four-pence; and from <hi>Piscataqua,</hi> Six-pence, and so in proportion as afore<g ref="char:EOLhyphen"/>said; And if any Letters or Pacquets, shall Lie and Remain in the Office Uncalled for, by the space of Forty Eight Hours, the Post-Master then sending them forth to the Respective Houses of the persons to whom they are Directed, shall have and receive one penny more for each Letter or Pacquet.</p>
             </div>
             <div type="act">
@@ -208,7 +208,7 @@ and Summs of Current Money of this Province hereafter mentioned, nor to Exceed t
                <p>That no person or persons whatsoever, or Bodys Politick or Corpo<g ref="char:EOLhyphen"/>rate, other then the Post-Master General aforesaid,<note place="margin">
                      <hi>Penalty for any to Erect a Post Office, other than the Post-mas<g ref="char:EOLhyphen"/>ter General herein nam<g ref="char:EOLhyphen"/>ed.</hi>
                   </note> shall presume to Carry, Recarry or Deliver Letters for hire, other then as before ex<g ref="char:EOLhyphen"/>cepted, or to Set up or Employ any Foot-Post, Horse-Post or Pacquet-Boat whatsoever for the Carrying, Conveying, and Recarrying of any Letters or Pacquets by Sea or Land within this Province, or shall provide and maintain Horses and Furniture for the Equipping of any persons Riding Post, with a Guide and Horn as is usual in Their Majesties Realm of England, upon the pain of Forfeiting the Sum
-<pb n="9" facs="tcp:000649_0008_0FA9A083AC72F3B8"/>
+<pb n="9" facs="unknown:000649_0008_0FA9A083AC72F3B8"/>
 of Forty Pounds Currant Money of this Province, for every several Offence against the Tenour of this present Act to be Sued and Re<g ref="char:EOLhyphen"/>covered in any Court of Record within this Province, by Bill, Plaint, or Information, wherein no Essoyn, Protection or Wager of Law shall be Allowed: one half of the said Forfeiture to Their Majesties, towards the support of the Government of this Province, and the Con<g ref="char:EOLhyphen"/>tingent Charges thereof; the other half to the Post-Master-General, who shall sue and prosecute for the fame.</p>
                <p>And be it Further Enacted by the Authority aforesaid,</p>
                <p>That all Letters and Pacquets that by any Master of any Ship or Vessel,<note place="margin">
@@ -230,7 +230,7 @@ of Forty Pounds Currant Money of this Province, for every several Offence agains
                <p>That all Letters of Publick concernment for Their Majesties Ser<g ref="char:EOLhyphen"/>vice,<note place="margin">
                      <hi>Publick Let<g ref="char:EOLhyphen"/>ters to go free.</hi>
                   </note>
-                  <pb n="10" facs="tcp:000649_0009_0FA9A084C648DB30"/>
+                  <pb n="10" facs="unknown:000649_0009_0FA9A084C648DB30"/>
 from time to time, and at all times shall be received, dispatched away, and delivered with all possible speed, according to the respective directions thereon free of all charge; and without demanding or re<g ref="char:EOLhyphen"/>ceiving any Money or pay for the same, any thing herein before con<g ref="char:EOLhyphen"/>tained notwithstanding.</p>
                <p>Provided, that this Act, nor any thing therein contained, shall continue in force any longer than three Years from and after the Pub<g ref="char:EOLhyphen"/>lication thereof, any thing herein to the contrary notwithstanding.</p>
             </div>
@@ -238,14 +238,14 @@ from time to time, and at all times shall be received, dispatched away, and deli
                <head>AN ACT, For Confirmation of Titles within the Islands of Capawock, alias Marthas Vineyard and Nantuket.</head>
                <p>WHEREAS Their Most Gracious Majesties, our Soveraign Lord and Lady KING William and QUEEN Mary, in and by Their Royal Charter, or Letters Patents, bearing date at <hi>Westminster</hi> the seventh day of October. In the third year of Their said Majesties Reign: for the Uniting, Erecting and Incorporating of the Colonie of the <hi>Massachusetts Bay,</hi> and Colonie of <hi>New-Plimouth,</hi> the Province of Main, the Territory called <hi>Acada</hi> or <hi>Nova-Scotia,</hi> and all that Tract of Land lying be<g ref="char:EOLhyphen"/>tween the said Territories of <hi>Nova-Scotia,</hi> and the said Province of Main, into one real Province by the name of the Province of the <hi>Mas<g ref="char:EOLhyphen"/>sachusetts Bay,</hi> in New-England: have therein particularly named, comprehended and included the Islands of <hi>Capawock</hi> and <hi>Nantucket</hi> as part of the said Province of the <hi>Massachusetts Bay,</hi> and annexed the ſame thereto. And also all Islands and Islets, lying within Ten Leagues directly opposite to the main land within the said Bounds.</p>
                <p>And whereas Their said Majesties have also been graciously pleased in and by Their said Letters Patents; to grant and ordain that all
-<pb n="11" facs="tcp:000649_0010_0FA9A086E7E6C478"/>
+<pb n="11" facs="unknown:000649_0010_0FA9A086E7E6C478"/>
 and every such Lands, Tenements and Hereditaments and other E<g ref="char:EOLhyphen"/>states, which any Person or Persons, or Bodies Politick and Corpo<g ref="char:EOLhyphen"/>rate, Towns, Villages, Colledges or Schools, do hold and enjoy or ought to have, hold and enjoy within the bounds of the said Char<g ref="char:EOLhyphen"/>ter, by or under any Grant or Estate duely made or granted, by any General Court formerly held, or by vertue of the Letters Pa<g ref="char:EOLhyphen"/>tents herein before recited, or by any other lawful right or title whatsoever; shall be by such person or persons, Bodies Politick and Corporate, Towns, Villages, Colledges or Schools, their respective Heirs Successors and Assigns for ever hereafter held and enjoyed according to the purport and intent of such respective Grant, under and sub<g ref="char:EOLhyphen"/>ject nevertheless to the Rents and Services thereby reserved or made payable <hi>&amp;c.</hi> as in and by the before recited Charter or Letters Pa<g ref="char:EOLhyphen"/>tents reference thereto being, had doth and will more fully and at large appear.</p>
                <p>But forasmuch as the said Island of <hi>Capawock, alias Martha's Vine<g ref="char:EOLhyphen"/>yard,</hi> and the Island of <hi>Nantuket,</hi> were for some time under the Rule and Government of the Province of <hi>New-York,</hi> and the properties and Titles of the Lands upon the said Islands respectively being derived and founded upon several Grants and Patents made and granted by the Succesive Governours of the said Province of <hi>New-York,;</hi> and so le<g ref="char:EOLhyphen"/>gal there according to the constitutution, usage and custom of the Government of said <hi>New-York.</hi> And the Inhabitants and Proprietors of Lands within the said Island of <hi>Capawock, alias Martha's Vineyard</hi> and the Island of <hi>Nantuket;</hi> for their better quiet and satisfaction, desir<g ref="char:EOLhyphen"/>ing this Courts confirmation of the same.</p>
                <p>It is therefore Declared, and Enacted by the Governour Council and Representatives Convened in General Assembly, and by the Authority of the same,</p>
                <p>That all Lands Tenements, Hereditaments and other Estates held and enjoyed by any person or persons, Towns, or Villages within the said Islands of <hi>Capawock, alias Martha's Vineyard</hi> and <hi>Nantuket,</hi> and each of them respectively, by or under any Grant or Estate duely made or granted by any former Government, or by the Successive Go<g ref="char:EOLhyphen"/>vernours of <hi>New-York,</hi> or any other lawful right or Title whatsoever; shall be by such person or persons Towns or Villages their respective Heirs, Successors and Assigns, forever hereafter held and enjoyed, accor<g ref="char:EOLhyphen"/>ding to the true purport and intent of such respective Grant, under and subject nevertheless to the Rents and Services thereby reserved or made payable: And are hereby ratified and confirmed as fully and amply to all intents, constructions and purposes, as the Lands in any other parts or places within this Province, by virtue of Their Majesties Royal Charter.</p>
             </div>
             <div type="act">
-               <pb n="12" facs="tcp:000649_0011_0FA9A087753B4DD8"/>
+               <pb n="12" facs="unknown:000649_0011_0FA9A087753B4DD8"/>
                <head>AN ACT, For the better Collecting the Impost and Excise, and Pre<g ref="char:EOLhyphen"/>venting Frauds.</head>
                <p>BE it Enacted by the Governour, Council, and Represen<g ref="char:EOLhyphen"/>tatives, Convened in General Assembly, and by the Au<g ref="char:EOLhyphen"/>thority of the same,</p>
                <p>That such Officer or Officers as are or shall be Impowred and appointed by the Commissioners for Impost and Excise, shall have power and are hereby Authorized,<note place="margin">
@@ -259,7 +259,7 @@ and every such Lands, Tenements and Hereditaments and other E<g ref="char:EOLhyp
                      <hi>Goods to be landed in the day time only.</hi>
                   </note> shall be landed on any Wharfe or into any Ware<g ref="char:EOLhyphen"/>house or other place, but in the day-time onely, and that after Sun rise, and before Sun set; unless in the presence of, and with the consent of the Officer appointed to inspect such affaires, on the Forfeiture of such goods.</p>
                <p>
-                  <pb n="13" facs="tcp:000649_0012_0FA9A0883305A540"/>
+                  <pb n="13" facs="unknown:000649_0012_0FA9A0883305A540"/>
 And it is Further Enacted,</p>
                <p>That every Master or Head of a Family,<note place="margin">
                      <hi>Masters of Families to be accounta<g ref="char:EOLhyphen"/>ble for breach of the Law.</hi>
@@ -273,7 +273,7 @@ And it is Further Enacted,</p>
                      <hi>In case of Seizure the proof of du<g ref="char:EOLunhyphen"/>tyes being paid, to lye on the Claimer.</hi>
                   </note> in any of the particulars thereof; the proof whether the duties be paid, or secured to be paid, shall lye upon the Claimer, and shall not be Incumbent on the prosecutor, or informer, in behalf of Their Majesties and himself: Provided, such Seizure be made, or Action brought within Ten dayes, after the ground for such forfeiture, or action did arise.</p>
                <p>
-                  <pb n="14" facs="tcp:000649_0013_0FA9A089000D0BD8"/>
+                  <pb n="14" facs="unknown:000649_0013_0FA9A089000D0BD8"/>
 And it is Further Enacted by the Authority aforesaid,</p>
                <p>That all penalties and forfeitures arising for the breach of this Act, or any Clause or Article therein, shall enure and accrue one half thereof to Their Majesties,<note place="margin">
                      <hi>Forfeitures how to be disposed.</hi>
@@ -288,7 +288,7 @@ And it is Further Enacted by the Authority aforesaid,</p>
                <p>That whosoever hath since the <hi>Fourteenth</hi> day of May<note place="margin">
                      <hi>Wolves to be paid for out of the Town Stock.</hi>
                   </note> One Thousand Six Hundred Ninety Two, or shall hereafter Kill any grown Wolfe within this Province, and bring the head thereof unto the Constable of the Town, in which such Wolfe shall be Kill'd, or to the Constable of the Town next Adjacent unto the place of
-<pb n="15" facs="tcp:000649_0014_0FA9A089B45268C0"/>
+<pb n="15" facs="unknown:000649_0014_0FA9A089B45268C0"/>
 Killing such Wolfe, without the bounds of any Town-ship, shall have a Receipt of the Constable for the same, and the Constable shall cut off both the Ears from such Head; And the party pro<g ref="char:EOLhyphen"/>ducing the Constables Receipt unto the Select men of said Town, or some one of them, shall be allowed and paid out of the Towns Stock, the sum of <hi>Twenty</hi> Shillings for every head, as aforesaid, of a grown Wolfe by him kill'd, and the sum of <hi>Five</hi> Shillings for every Wolves Whelp.</p>
             </div>
             <div type="act">
